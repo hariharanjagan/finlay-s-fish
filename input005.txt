@@ -1,0 +1,8 @@
+Order #1, 12:00:00, 12 Cod
+Order #2, 12:00:00, 8 Cod
+Order #3, 12:10:00, 12 Haddock
+Order #4, 12:10:00, 8 Haddock
+Order #5, 12:20:00, 8 Cod, 8 Chips
+Order #6, 12:20:00, 8 Chips
+Order #7, 12:20:00, 8 Chips
+Order #8, 12:20:00, 8 Chips

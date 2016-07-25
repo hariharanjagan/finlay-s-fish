@@ -1,0 +1,20 @@
+at 12:00:00, Order #1 Accepted
+at 12:00:00, Begin Cooking 4 Chips
+at 12:02:00, Begin Cooking 4 Chips
+at 12:04:00, Serve Order #1
+at 12:00:00, Order #2 Accepted
+at 12:04:00, Begin Cooking 4 Chips
+at 12:06:00, Begin Cooking 4 Chips
+at 12:08:00, Serve Order #2
+at 12:00:00, Order #3 Rejected
+at 12:00:00, Order #4 Rejected
+at 12:02:00, Order #5 Accepted
+at 12:08:00, Begin Cooking 4 Chips
+at 12:10:00, Begin Cooking 4 Chips
+at 12:12:00, Serve Order #5
+at 12:02:00, Order #6 Rejected
+at 12:08:00, Order #7 Accepted
+at 12:12:00, Begin Cooking 4 Chips
+at 12:14:00, Begin Cooking 4 Chips
+at 12:16:00, Serve Order #7
+at 12:08:00, Order #8 Rejected

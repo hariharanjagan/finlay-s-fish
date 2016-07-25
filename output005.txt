@@ -1,0 +1,22 @@
+at 12:00:00, Order #1 Rejected
+at 12:00:00, Order #2 Accepted
+at 12:00:00, Begin Cooking 4 Cod
+at 12:01:20, Begin Cooking 4 Cod
+at 12:02:40, Serve Order #2
+at 12:10:00, Order #3 Rejected
+at 12:10:00, Order #4 Accepted
+at 12:10:00, Begin Cooking 4 Haddock
+at 12:11:30, Begin Cooking 4 Haddock
+at 12:13:00, Serve Order #4
+at 12:20:00, Order #5 Accepted
+at 12:20:00, Begin Cooking 4 Chips
+at 12:21:20, Begin Cooking 4 Cod
+at 12:22:00, Begin Cooking 4 Chips
+at 12:22:40, Begin Cooking 4 Cod
+at 12:24:00, Serve Order #5
+at 12:20:00, Order #6 Accepted
+at 12:24:00, Begin Cooking 4 Chips
+at 12:26:00, Begin Cooking 4 Chips
+at 12:28:00, Serve Order #6
+at 12:20:00, Order #7 Rejected
+at 12:20:00, Order #8 Rejected

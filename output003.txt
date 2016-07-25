@@ -1,0 +1,5 @@
+at 12:00:00, Order #1 Rejected
+at 12:00:00, Order #2 Accepted
+at 12:00:00, Begin Cooking 4 Chips
+at 12:02:00, Begin Cooking 4 Chips
+at 12:04:00, Serve Order #2
